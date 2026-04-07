@@ -21,5 +21,6 @@ Berikut adalah hasil running program dan struktur databasenya:
 
 1. Tampilan perogram
 
-2. ![Uploading Screenshot (159).png…]()
+<img width="1920" height="1080" alt="hasil" src="https://github.com/user-attachments/assets/54340364-3e10-4660-b0f0-dba7dafd854d" />
+
 
