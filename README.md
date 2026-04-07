@@ -9,10 +9,13 @@ Prasyarat
 Java JDK 8 atau versi terbaru.
 MySQL / XAMPP.
 Maven (untuk manajemen dependensi).
+
 Struktur Folder
 src/ : Source code program.
+
 database.sql : File export database (terletak di root).
 README.md : Dokumentasi tugas.
+
 Hasil Screenshot
 Berikut adalah hasil running program dan struktur databasenya:
 
